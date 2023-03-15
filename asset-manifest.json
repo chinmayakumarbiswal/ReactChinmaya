@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7999b120.css",
+    "main.js": "./static/js/main.23e9052e.js",
+    "static/media/situ.png": "./static/media/situ.a61bf9c371b803aa7c1e.png",
+    "static/media/chinmaya2.png": "./static/media/chinmaya2.63d8143a89cbc797469e.png",
+    "static/media/chi.jpg": "./static/media/chi.8f53d9ee59370a2bbd7e.jpg",
+    "index.html": "./index.html",
+    "main.7999b120.css.map": "./static/css/main.7999b120.css.map",
+    "main.23e9052e.js.map": "./static/js/main.23e9052e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7999b120.css",
+    "static/js/main.23e9052e.js"
+  ]
+}
